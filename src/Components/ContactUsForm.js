@@ -21,14 +21,14 @@ const ContactUsForm = () => {
     </div>
     <div className="col-12">
       <div className="form-check">
-        <input className="form-check-input" type="checkbox" id="gridCheck" />
+        <input className="form-check-input" type="checkbox" />
         <label className="form-check-label" htmlFor="gridCheck">
           I authorize doc-test to hold and process my persoanl info.
         </label>
       </div>
 
       <div className="form-check">
-        <input className="form-check-input" type="checkbox" id="gridCheck" />
+        <input className="form-check-input" type="checkbox" />
         <label className="form-check-label" htmlFor="gridCheck">
           By registering you agree to our privacy policy and terms of use.
         </label>

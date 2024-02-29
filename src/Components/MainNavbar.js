@@ -5,7 +5,7 @@ const MainNavbar = () => {
       <nav class="navbar navbar-expand-lg navbar-light bg-white">
         <div class="container-fluid">
           <a class="navbar-brand" href="#">
-            <img src="your-image-url" alt="Logo" width="30" height="30" class="d-inline-block align-top"/>
+            <img src="https://th.bing.com/th/id/OIP.0iqvqUM-_MntTZp4CMBaigHaEK?w=3840&h=2160&rs=1&pid=ImgDetMain" alt="Logo" width="30" height="30" class="d-inline-block align-top" style={{ marginLeft: 10 }}/>
           </a>
           <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
