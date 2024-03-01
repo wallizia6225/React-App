@@ -8,7 +8,7 @@ const TrustedBy = () => {
   ];
   
   return (
-    <div className="jumbotron text-center">
+    <div className="jumbotron text-center" style={{ paddingLeft: 100, paddingRight: 100 }}>
       <h2 style={{ paddingTop: 25}}>Trusted By 300+ Verified Practices</h2>
       <hr/>
       <div className="row justify-content-center" style={{ paddingBottom: 50 }}>

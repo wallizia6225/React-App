@@ -19,7 +19,7 @@ import AboveFooter from '../Components/AboveFooter';
 import Footer from '../Components/Footer';
 import CopyrightStrip from '../Components/CopyrightStrip';
 
- const LandingPage = () => {
+ const Home = () => {
     return (
         <>
         <TopHeader/>
@@ -63,4 +63,4 @@ import CopyrightStrip from '../Components/CopyrightStrip';
         </>
     )
 }
-export default LandingPage;
+export default Home;
